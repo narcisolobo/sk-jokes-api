@@ -26,6 +26,7 @@
 	"type": "module",
 	"dependencies": {
 		"@prisma/client": "^4.15.0",
-		"@vercel/postgres": "^0.3.0"
+		"@vercel/postgres": "^0.3.0",
+		"zod": "^3.21.4"
 	}
 }
